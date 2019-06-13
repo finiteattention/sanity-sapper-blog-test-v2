@@ -12,6 +12,11 @@ export default {
       name: 'description',
       type: 'text',
       title: 'Description'
+    },
+    {
+      name: 'category',
+      type: 'string',
+      title: 'Category'
     }
   ]
 }
